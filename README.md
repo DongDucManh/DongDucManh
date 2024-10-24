@@ -3,14 +3,9 @@
 
 Hi there! I'm Mzeno
 
-### Some of my works
-<a href="https://kryple.itch.io/">
-  <img src="Images/Itch_logo.png" alt="Image description" width="80">
-</a>  
-
 Contact me at:
 - 📫 manducdongyb@gmail.com
-- [Facebook]([https://www.facebook.com/profile.php?id=61554875248180](https://www.facebook.com/dongducmanhyb))
+- [Facebook]([https://www.facebook.com/profile.php?id=61554875248180])
 
 
 ## 🛠 Skills
