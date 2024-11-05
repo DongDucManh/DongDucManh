@@ -11,15 +11,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DongDucManh&show_icons=true" />
 </picture>
 
-Hi there! I'm Mzeno
 # 💫About Me :
-👋 Hi, I’m @Manhddm
+👋 Hi, I’m @DongDucManh
 👀 I’m interested in AI
 🌱 I’m currently learning UTC
 💞️ I’m looking to collaborate on SFIT
 📫 How to reach me manhducdongyb@gmail.com
-😄 Pronouns: 
-⚡ Fun fact: 
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/dongducmanhyb) 
